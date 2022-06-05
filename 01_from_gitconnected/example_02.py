@@ -1,3 +1,6 @@
+# based on 
+# https://levelup.gitconnected.com/python-pandas-google-spreadsheet-476bd6a77f2b
+
 import pandas as pd
 import gspread
 from google.oauth2.service_account import Credentials
